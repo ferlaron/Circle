@@ -1,0 +1,15 @@
+E:\C#\CircleAreaCalculating\bin\Debug\net7.0\CircleAreaCalculating.exe
+E:\C#\CircleAreaCalculating\bin\Debug\net7.0\CircleAreaCalculating.deps.json
+E:\C#\CircleAreaCalculating\bin\Debug\net7.0\CircleAreaCalculating.runtimeconfig.json
+E:\C#\CircleAreaCalculating\bin\Debug\net7.0\CircleAreaCalculating.dll
+E:\C#\CircleAreaCalculating\bin\Debug\net7.0\CircleAreaCalculating.pdb
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\CircleAreaCalculating.csproj.AssemblyReference.cache
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\CircleAreaCalculating.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\CircleAreaCalculating.AssemblyInfoInputs.cache
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\CircleAreaCalculating.AssemblyInfo.cs
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\CircleAreaCalculating.csproj.CoreCompileInputs.cache
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\CircleAreaCalculating.dll
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\refint\CircleAreaCalculating.dll
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\CircleAreaCalculating.pdb
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\CircleAreaCalculating.genruntimeconfig.cache
+E:\C#\CircleAreaCalculating\obj\Debug\net7.0\ref\CircleAreaCalculating.dll
